@@ -31,7 +31,7 @@ body {
 aside {
     background-color: var(--itens-background);
     border-radius: 10px;
-    height: 100%;
+    height: auto;
     padding: 40px 16px;
     text-align: center;
 }
